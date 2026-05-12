@@ -1,5 +1,4 @@
-# omen-dictionary.github.io
-Off-line dictionary
+# omen.github.io
 <!DOCTYPE html>
 <html lang="en">
 <head>
