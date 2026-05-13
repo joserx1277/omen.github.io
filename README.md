@@ -1,9 +1,8 @@
-# omen.github.io
 <!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<title>Off-line Dictionary</title>
+<title>Omen</title>
 
 <style>
 body {
@@ -264,7 +263,7 @@ const offlineDictionary = {
   milk: "A white liquid from animals.",
   mountain: "A very tall natural elevation.",
   music: "Organ.ized sound for listening.",
-  name: "A word used to identify someone.",l
+  name: "A word used to identify someone.",
   ocean: "A huge body of saltwater.",
   paper: "Thin material used for writing.",
   parent: "A mother or father.",
